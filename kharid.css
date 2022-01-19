@@ -1,0 +1,17 @@
+
+
+body
+{
+background-image: url(green-background-7.jpg);
+overflow:scroll;
+}
+
+
+.firstdiv
+{
+    float: right;
+    position: fixed;
+    height: 400px;
+    width: 80%;
+    background-color: burlywood;
+}

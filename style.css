@@ -9,7 +9,6 @@
     padding: 0px;
     background-image: url(agenda-analysis-business-plan-990818.jpg);
     background-size: cover;
-    
 }
 .menu-bar
 {
@@ -128,6 +127,10 @@ text-align: center;
     content: "";
     display: table;
     clear: both;
+}
+.imgclass
+{
+   position: absolute;
 }
 
  

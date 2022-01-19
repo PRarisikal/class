@@ -50,6 +50,24 @@ label
     display: table;
     clear: both;
 }
+.divcontact
+{
+    direction: rtl;
+    position: fixed;
+    height: 25%;
+    width: 95%;
+    background-color: #8f8a8a;
+    padding: 1%;
+    margin-left: 2%;
+
+    
+}
+.p
+{
+    float: right;
+    direction: rtl;
+    display: block;
+}
 
 
 @media screen and (max-width: 600px) {

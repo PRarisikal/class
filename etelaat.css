@@ -131,7 +131,6 @@ text-align: center;
 }
 .imagecheck
 {
-    position: absolute;
 }
  
 @media screen and (max-width: 600px) {

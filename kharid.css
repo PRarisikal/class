@@ -6,12 +6,81 @@ background-image: url(green-background-7.jpg);
 overflow:scroll;
 }
 
+.imagediv
+{
+  position: relative;
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 75%;
+  padding: 1%;
+}
+.kharid2
+{
+      margin-top: 50%;
+      display: block;
+      float: right;
+      direction: rtl;
+      position: fixed;
+      height: 75%;
+      width:80%;
+      padding: 1%;
+      background-color: burlywood;
+      margin-left: 5%;
+}
 
-.firstdiv
+
+.khariddiv
+{
+    margin-top: 2%;
+    display: block;
+    float: right;
+    direction: rtl;
+    position: fixed;
+    height: 75%;
+    width:80%;
+    padding: 1%;
+    background-color: burlywood;
+    margin-left: 5%;
+}
+.p
 {
     float: right;
-    position: fixed;
-    height: 400px;
-    width: 80%;
-    background-color: burlywood;
+    direction: rtl;
 }
+.explain
+{
+background-color: rgb(201, 198, 198);
+position: fixed;
+height: 24%;
+width: 55%;
+}
+
+.total
+{
+  display: block;
+}
+
+
+table{
+    
+    border: 1px solid black;
+    width: 40%;
+    padding: 1%;
+    margin: 1%;
+  }
+  th
+  {
+    border: 1px solid black;
+    padding: 1%;
+    margin: 1%;
+  }
+
+  td
+  {
+    border: 1px solid black;
+    padding: 1%;
+    margin: 1%;
+  }
+
+
